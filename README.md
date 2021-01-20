@@ -15,7 +15,7 @@
 
 </br>
 
-- [https://cart-usereducer.netlify.app//](https://cart-usereducer.netlify.app/)
+- [https://cart-usereducer.netlify.app/](https://cart-usereducer.netlify.app/)
 <p align="center">
   <img src="src/images/cart-gif.gif" />
 </p>
